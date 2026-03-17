@@ -1,7 +1,7 @@
 ## Olá eu sou o Júlio
 
 - 🔭 Estou a procura do meu primeiro estágio
-- 🌱 Aprendendo C++, Python, React e Banco de Dados 
+- 🌱 Aprendendo C++ | Python | React | Banco de Dados | HTML e CSS
 - 📫 contate-me: juliocesar05475@gmail.com
 
 <div style="display: inline_block"><br>
