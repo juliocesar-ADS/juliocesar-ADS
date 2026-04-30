@@ -1,9 +1,30 @@
-## Olá eu sou o Júlio
+##  Olá, eu sou o Júlio
 
-- 🔭 Estou a procura do meu primeiro estágio
-- 🌱 Aprendendo C++ | Python | JS(React) | Banco de Dados | HTML e CSS | GIT | MYSQL |SCRUM | CyberSecurity | Office
+Em busca do meu primeiro estágio na área de desenvolvimento
 
-- 📫 contate-me: juliocesar05475@gmail.com
+ Atualmente focado em:
+- Python (lógica, projetos e automação)
+- C (estrutura de dados e fundamentos)
+- Desenvolvimento Web (HTML, CSS e React)
+- Banco de Dados (MySQL)
+
+🚀 Tecnologias e ferramentas:
+Python | C++ | JavaScript | React | HTML | CSS | Git | MySQL | SCRUM
+
+📚 Sempre aprendendo e evoluindo com projetos práticos!
+
+---
+
+### 📌 Projetos em destaque:
+🔹 Gerenciador de Produtos em Python (terminal)  
+🔹 Jogo da Velha em Python  
+🔹 Gerador de senhas fortes
+
+---
+
+📫 Contato:
+Email: juliocesar05475@gmail.com  
+LinkedIn: https://linkedin.com/in/júlio-césar-b9a791189
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
