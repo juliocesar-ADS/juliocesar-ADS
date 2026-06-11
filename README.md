@@ -44,7 +44,7 @@
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
 | [🛒 Gerenciador de Produtos](https://github.com/juliocesar-ADS/gerenciador-de-produtos) | Sistema CRUD de produtos via terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [❌⭕ Jogo da Velha](https://github.com/juliocesar-ADS/jogo-da-velha) | Jogo da velha jogável no terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [❌⭕ Jogo da Velha](https://github.com/juliocesar-ADS/Jogo-da-velha-PROJETO-CISCO-) | Jogo da velha jogável no terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🔐 Gerador de Senhas Fortes](https://github.com/juliocesar-ADS/gerador-de-senhas) | Gera senhas seguras e aleatórias | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🔗 Encurtador de URL](https://github.com/juliocesar-ADS/encurtador-de-url) | Encurta URLs longas de forma simples | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
