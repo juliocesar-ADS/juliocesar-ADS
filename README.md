@@ -9,7 +9,7 @@ Em busca do meu primeiro estágio na área de desenvolvimento
 - Banco de Dados (MySQL)
 
 🚀 Tecnologias e ferramentas:
-Python | C++ | JavaScript | React | HTML | CSS | Git | MySQL | SCRUM
+Python | C++ | JavaScript | React | HTML | CSS | Git | MySQL | SCRUM | AWS | CyberSecurity
 
 📚 Sempre aprendendo e evoluindo com projetos práticos!
 
@@ -19,7 +19,8 @@ Python | C++ | JavaScript | React | HTML | CSS | Git | MySQL | SCRUM
 🔹 Gerenciador de Produtos em Python (terminal)  
 🔹 Jogo da Velha em Python  
 🔹 Gerador de senhas fortes
-
+🔹 Gerador de Senha
+🔹 Encurtador de URL
 ---
 
 📫 Contato:
