@@ -48,7 +48,7 @@
 | [🔐 Gerador de Senhas Fortes](https://github.com/juliocesar-ADS/gerador-de-senhas) | Gera senhas seguras e aleatórias | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🔗 Encurtador de URL](https://github.com/juliocesar-ADS/encurtador-de-url) | Encurta URLs longas de forma simples | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
-> ⚠️ **Atenção:** Verifique se os links acima correspondem aos nomes reais dos seus repositórios e ajuste se necessário.
+
 
 ---
 
@@ -63,9 +63,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-💬 *"Cada linha de código é um passo a mais na jornada."*
-
-</div>
