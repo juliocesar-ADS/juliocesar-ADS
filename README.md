@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **ADS - Análise e Desenvolvimento de Sistemas** (3º/5º semestre)
+- 🎓 Cursando **ADS - Análise e Desenvolvimento de Sistemas** (4º/5º semestre)
 - 🚀 Em busca do meu **primeiro estágio** na área de desenvolvimento
 - 📚 Sempre aprendendo e evoluindo com projetos práticos
 - 💡 Focado em **Python**, **Desenvolvimento Web** e **Banco de Dados**
