@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Júlio César 👋
+# Olá, eu sou o Júlio César 
 
 ### Desenvolvedor em formação | Buscando primeiro estágio
 
